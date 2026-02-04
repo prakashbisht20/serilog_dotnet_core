@@ -1,0 +1,2 @@
+# serilog_dotnet_core
+serilog_dotnet_core
